@@ -450,9 +450,9 @@ air_vehicles = [
 		["CUP_B_MH6J_USA",0,air_vehicle_price_tier_1,0,GRLIB_perm_inf],
 		["CUP_B_MH6M_USA",0,air_vehicle_price_tier_2,0,GRLIB_perm_inf],
 		["CUP_B_AH6M_USA",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
-		["CUP_B_412_dynamicLoadout_HIL",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
 		["CUP_B_412_Mil_Utility_HIL",0,air_vehicle_price_tier_3,0,GRLIB_perm_inf],
-		["CUP_B_412_Mil_Transport_HIL",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
+		["CUP_B_412_Mil_Transport_HIL",0,air_vehicle_price_tier_3,0,GRLIB_perm_inf],
+		["CUP_B_412_dynamicLoadout_HIL",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
 		["CUP_B_UH1D_GER_KSK",0,air_vehicle_price_tier_5,0,GRLIB_perm_inf], //verursacht script fehler
 		["CUP_B_UH1D_gunship_GER_KSK",0,air_vehicle_price_tier_10,0,GRLIB_perm_inf], //verursacht script fehler
 		["CUP_B_Merlin_HC4_GB",0,air_vehicle_price_tier_4,0,GRLIB_perm_inf],
