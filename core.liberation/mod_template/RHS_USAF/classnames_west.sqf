@@ -106,6 +106,8 @@ light_vehicles = [
 		["CUP_I_LR_AA_AAF",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
 		["CUP_B_BAF_Coyote_L2A1_W",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
 		["CUP_B_BAF_Coyote_GMG_W",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
+		["CUP_B_Jackal2_L2A1_GB_D",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
+		["CUP_B_Jackal2_GMG_GB_D",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
 	//BAF
 		["UK3CB_BAF_Jackal2_L111A1_W",0,light_vehicle_price_tier_6,0,GRLIB_perm_inf],
 		["UK3CB_BAF_Jackal2_L134A1_W",0,light_vehicle_price_tier_7,0,GRLIB_perm_inf],
@@ -448,6 +450,9 @@ air_vehicles = [
 		["CUP_B_MH6J_USA",0,air_vehicle_price_tier_1,0,GRLIB_perm_inf],
 		["CUP_B_MH6M_USA",0,air_vehicle_price_tier_2,0,GRLIB_perm_inf],
 		["CUP_B_AH6M_USA",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
+		["CUP_B_412_dynamicLoadout_HIL",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
+		["CUP_B_412_Mil_Utility_HIL",0,air_vehicle_price_tier_3,0,GRLIB_perm_inf],
+		["CUP_B_412_Mil_Transport_HIL",0,air_vehicle_price_tier_8,0,GRLIB_perm_inf],
 		["CUP_B_UH1D_GER_KSK",0,air_vehicle_price_tier_5,0,GRLIB_perm_inf], //verursacht script fehler
 		["CUP_B_UH1D_gunship_GER_KSK",0,air_vehicle_price_tier_10,0,GRLIB_perm_inf], //verursacht script fehler
 		["CUP_B_Merlin_HC4_GB",0,air_vehicle_price_tier_4,0,GRLIB_perm_inf],
